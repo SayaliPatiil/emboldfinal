@@ -6,8 +6,7 @@ num2 = 6.3
 addition = num1 + num2
 
 """Display the addition"""
-fstring = f'The sum of {0} and {1} is {2}'.format(num1, num2, addition))
-print(fstring)
+print(f'The sum of {0} and {1} is {2}'.format(num1, num2, addition))
 # Store input numbers
 num1 = input('Enter first number: ')
 num2 = input('Enter second number: ')
